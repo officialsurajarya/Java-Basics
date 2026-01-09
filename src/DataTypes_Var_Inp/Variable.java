@@ -1,4 +1,4 @@
-package DataTypes;
+package DataTypes_Var_Inp;
 
 public class Variable {
     static void main(String[] args) {
@@ -11,5 +11,8 @@ public class Variable {
 
         boolean b = true;
         System.out.println(b);
+
+        String str = "Suraj Arya";
+        System.out.println(str);
     }
 }
