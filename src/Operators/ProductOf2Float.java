@@ -1,4 +1,4 @@
-package Operators_IfElse_NumSys;
+package Operators;
 
 public class ProductOf2Float {
     static void main(String[] args) {

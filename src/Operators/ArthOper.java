@@ -1,6 +1,5 @@
-package Operators_IfElse_NumSys;
+package Operators;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class ArthOper {
