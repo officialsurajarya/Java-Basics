@@ -1,0 +1,17 @@
+package ControlFlow;
+
+public class Fabonacci {
+    public static void main(String[] args) {
+        int first = 0;
+        int second = 1;
+        int n = 10;
+        int next=1;
+
+        for (int i = 1;i<=n; i++) {
+            System.out.print(first+", ");
+            first = second;
+            second = next;
+            next = first +second;
+        }
+    }
+}
