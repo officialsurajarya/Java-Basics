@@ -43,7 +43,7 @@ public class Trapping_RainWater {
             trapped_Water[i] = waterLevel[i] - height[i];
         }
 
-        //Output Traversing
+        //Output
         for (int i = 0; i < height.length; i++) {
             System.out.print(trapped_Water[i]+" ");
         }
